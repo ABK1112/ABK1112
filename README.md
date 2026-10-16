@@ -1,16 +1,37 @@
-## Hi there 👋
+# Abdulrahman Alsaadi
 
-<!--
-**ABK1112/ABK1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BSc (Honours) Data Science student at York University**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm an undergraduate Data Science student passionate about turning data into actionable insights. Currently studying at York University in Toronto, Canada, where I'm building a strong foundation in programming, statistics, and machine learning.
+
+## Currently Learning
+
+- **Python** — data analysis, scripting, and automation
+- **Statistics** — probability, inference, and experimental design
+- **Machine Learning** — supervised and unsupervised learning algorithms
+- **Data Analysis** — exploratory data analysis and visualization
+- **Quantitative Finance** — financial modeling and risk analysis
+- **Financial Markets & Forex** — market mechanics and data-driven trading concepts
+
+## Interests
+
+- Data Science & Analytics
+- Python & Statistical Computing
+- Machine Learning & AI
+- Quantitative Finance & Financial Markets
+- Forex & Currency Data Analysis
+
+## Goals
+
+- Strengthen foundations in statistics and machine learning through coursework and personal projects
+- Apply data science methods to financial markets and quantitative research
+- Build a portfolio of data-driven projects showcasing analytical and programming skills
+- Contribute to open-source projects and collaborate with others interested in data science
+
+---
+
+*This is a student profile repository — actively learning and growing.*
